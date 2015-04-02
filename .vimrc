@@ -12,18 +12,18 @@ call vundle#begin()
 Plugin 'gmarik/Vundle.vim'
 
 " my plugin
-Plugin 'davidhalter/jedi-vim'
+" Plugin 'davidhalter/jedi-vim'
 Plugin 'scrooloose/nerdtree'
 Plugin 'majutsushi/tagbar'
-Plugin 'taglist', {'pinned': 1}	" local dir
+" Plugin 'taglist', {'pinned': 1}	" local dir
 " Plugin 'yamlvim', {'pinned': 1}	" local dir
-Plugin 'moll/vim-node'
+" Plugin 'moll/vim-node'
 Plugin 'godlygeek/tabular'
 Plugin 'Lokaltog/vim-easymotion'
 Plugin 'tpope/vim-fugitive'
 Plugin 'mattn/emmet-vim'
-Plugin 'pangloss/vim-javascript'
-Plugin 'jelera/vim-javascript-syntax'
+" Plugin 'pangloss/vim-javascript'
+" Plugin 'jelera/vim-javascript-syntax'
 Plugin 'scrooloose/syntastic'
 Plugin 'mileszs/ack.vim'
 Plugin 'tpope/vim-surround'
