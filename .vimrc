@@ -162,5 +162,6 @@ function ToggleHex()
   let &modifiable=l:oldmodifiable
 endfunction
 
+set nohlsearch
 let g:airline#extensions#tabline#enabled = 1
 let g:ctrlp_custom_ignore = '\v[\/](node_modules|lib)$'		" ignore node_modules, lib
